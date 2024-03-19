@@ -6,7 +6,7 @@ Business Objective:
 ```markdown
 # Hotel Reviews Sentiment Analysis
 
-This project aims to perform sentiment analysis on hotel reviews using various natural language processing techniques and machine learning algorithms.
+This project aims to perform sentiment analysis on hotel reviews using various natural language processing techniques and machine learning algorithms. 
 
 ## Import Libraries
 
